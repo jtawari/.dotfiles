@@ -10,6 +10,7 @@ in {
     enable = true;
     settings = {
       main = {
+        pad = "6x0";
         term = "xterm-256color";
 
         font = "${font}:size=${size}:style=SemiBold";

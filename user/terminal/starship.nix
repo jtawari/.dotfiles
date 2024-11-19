@@ -15,6 +15,10 @@
       cmd_duration = {
         disabled = true;
       };
+      git_branch = {
+        format = "on [$symbol$branch]($style) ";
+        symbol = " ";
+      };
     };
   };
 }

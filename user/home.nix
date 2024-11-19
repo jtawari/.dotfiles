@@ -5,6 +5,7 @@
     ./hypr
     ./neovim
     ./terminal
+    ./eza.nix
     ./git.nix
     ./gammastep.nix
     ./ssh.nix
